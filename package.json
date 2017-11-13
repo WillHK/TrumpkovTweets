@@ -17,6 +17,7 @@
   "dependencies": {
     "dotenv": "^4.0.0",
     "markov": "0.0.7",
+    "markovchain": "^1.0.2",
     "twitter": "^1.7.1"
   }
 }
